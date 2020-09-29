@@ -1,4 +1,4 @@
-# Using GitHub for Social Data Science: Best Practise Guidelines
+# Using GitHub for MY470: Best Practise Guidelines
 
 This document sets out the best practise guidelines for using GitHub for the Applied Social Data Science Course at the LSE.
 
