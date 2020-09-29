@@ -19,12 +19,13 @@ For instructions on commit messages, refer to *Commit_Message_Guidelines.md*
 
 
 ### Introduction to Command Line
-To use Git we'll be using the terminal. If you’re not familiar with using the cmd line, some basic commands for navigating the file system are below.
+To use Git we'll be using the terminal. If you’re not familiar with using the cmd line, some basic commands for navigating the file system are below. 
+
 ```
 #  Use “cd” to change your current directory to the destination specified within the command. So to go to the "Users" folder.
 cd Users
 
-# You can navigate directly to the sub-directory.
+# You can navigate directly to the sub-directory. My sub-directory is called "GitHub_SDS" which stands for Social Data Science.
 cd Users\Sian\Documents\GitHub_SDS
 
 # If your file path has a space in it, wrap the file path in quotes.
