@@ -1,9 +1,9 @@
 # Welcome to GitHub!
 
-GitHub is a code sharing site for programmers. Think of it as a combination of a cloud storage platform and a back-up service for all of your Social Data Science needs. Whilst there are virtual learning environments (such as Canvas) that are used throughout the University, learning GitHub is a fundamental part of collaboration in computational projects.
+GitHub is a code sharing site for programmers. Think of it as a combination of a cloud storage platform and a back-up service for all of your Computer Programming needs. Whilst there are virtual learning environments (such as Moodle) that are used throughout the University, learning GitHub is a fundamental part of collaboration in computational projects.
 We will be using GitHub throughout the course so it’s important we make sure you are familiar with how it works. 
 
-This document serves as a theoretical introduction to GitHub. In the Admin repository (defined later) there are additional files that provide information on different ways you can use the platform.
+This document serves as a theoretical introduction to GitHub. In this repository (defined later) there are additional files that provide information on different ways you can use the platform.
 
 ## What exactly is GitHub?
 At the centre of GitHub is Git, an open source project started by Linux creator Linus Torvalds. Git is a Version Control System (VCS), a category of software tools that help teams manage changes to source code over time. VSCs keep track of every modification to the code in a special kind of database. It’s a filing system for every draft of a document.
@@ -28,7 +28,7 @@ Before we set up GitHub it is crucial that we familiarise you with some key term
 > A version of the repository that diverges from the main working project. Branches can be a new version of a repository, experimental changes, or personal forks of a repository for users to alter and test changes.
 
 **Checkout**
->The git checkout command is used to switch branches in a repository.
+> The git checkout command is used to switch branches in a repository.
 
 **Clone**
 > A clone is a copy of a repository or the action of copying a repository. 
