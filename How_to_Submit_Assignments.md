@@ -1,28 +1,10 @@
 # How to Submit your Assignments
 
-This document contains information on how to submit your assignments via GitHub. The structure of this organisation is Leactures and Assignment Weeks. This means that the Lectures repo contains all of the lectures for the term, but the Assignments are broken into weekly repos. Each Week has the instructions, assignment, and datasets needed to complete the task.
-
-#### FSDS: Summative Assignments
-Please see guidance from the OII SDS Graduate Studies Handbook, Section 2.6
-"Submission of summative coursework".
-
-#### FSDS: Formative Assignments
-Each week there are three lectures and three labs. The first two labs of every week are to
-be peer evaluated during the lab. The third lab every week will be marked by the Lab
-Instructor with feedback ready for the beginning of next week's lecture. 
-* **RELEASED:** All assignments for the week will be realease before for the Lecture on Monday (10:00).
-* **DUE:** Each assignment is due before the next lecture (10:00 the following day).
-* **FEEDBACK:** You will get feedback before the next assignments are released.
-
-
-### Viewing Course Materials
-The model answers for all assignments are contained in their own Repo. This means that you have the model answers prior to completing the task. The weekly assignments are **formative**, so your mark does not contribute towards your grade for the course.
-* Lectures: https://github.com/oii-SDS-A16815S1/Lectures
-* Model Answers: https://github.com/oii-SDS-A16815S1/Model_Answers
+This document contains information on how to submit your assignments via GitHub. The structure of this organisation is Lectures and Assignment Weeks. This means that the Lectures repo contains all of the lectures for the term, but the Assignments are broken into weekly repos. Each Week has the instructions, assignment, and datasets needed to complete the task.
 
 ## Submitting Assignments on GitHub Interface
 The instructions here are how to download and submit assignments using GitHub in the Browser.
-The full guide to using GitHub in thr browser can be found in the appropiate [*Three Ways to use GitHub* document.](https://github.com/oii-SDS-A16815S1/Admin/blob/master/Three-Ways-to-Use-GitHub-WEBINTERFACE.md)
+The full guide to using GitHub in thr browser can be found in the appropiate [*Three Ways to use GitHub* document.](/Three-Ways-to-Use-GitHub-WEBINTERFACE.md)
 
 <img src="Images/download_ssh.PNG" height=200>
 
