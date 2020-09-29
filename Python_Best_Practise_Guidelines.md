@@ -1,16 +1,11 @@
 # Using GitHub for Social Data Science: Best Practise Guidelines
 
-This document sets out the best practise guidelines for using GitHub for the Social Data Science Course at the Oxford Internet Institute.
+This document sets out the best practise guidelines for using GitHub for the Applied Social Data Science Course at the LSE.
 
 **I recommend that you create you own personal GitHub repository to makesure all of your code is backed up and tracked.**
 
-It is important that the structure of the *Organisation* is maintained for the sake of consistency across years and courses. 
-The structure of the materials are laid out in the diagram below.
-
-<img src="Images/Organisation_Structure.PNG" height=400>
-
 ## Code Formatting
-These guidelines are generally for Python, but the principles hold accross R and other programming languages you might use in your time at the Oxford Interent Institute.
+These guidelines are generally for Python, but the principles hold accross R and other programming languages you might use in your time at the LSE.
 
 ### The Zen of Python
 Tim Peters (major contributor to the Python) wrote this short poem to express what values you should follow while coding in Python. You can get this by running “import this” in the IDLE:
